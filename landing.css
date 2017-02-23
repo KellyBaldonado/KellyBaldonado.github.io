@@ -1,0 +1,30 @@
+body {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+	width:675px;
+}
+
+.center-align {
+	text-align: center;
+
+}
+
+.padding{
+	padding:25px;
+}
+.x-padding{
+
+	padding:45px;
+}
+
+.main-height{
+	height:400px;
+}
+
+.green {
+	background-color: #33cc33;
+	font-size:18px;
+	color:white;
+}
+
+
+
