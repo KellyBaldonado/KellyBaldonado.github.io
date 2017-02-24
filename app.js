@@ -4,7 +4,7 @@
 
 	app.controller("mainController", function () {
 
-		this.Message = "Kelly Baldonado's resume here"; 
+		this.Message = "Kelly Baldonado Front End Web Developer"; 
 
      });
 
